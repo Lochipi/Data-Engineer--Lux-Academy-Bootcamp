@@ -1,3 +1,9 @@
+PostgreSQL is an advanced, enterprise-class, and open-source relational database system.
+         PostgreSQL supports both SQL (relational) and JSON (non-relational) querying.   --started in 1986
+
+         languages it supports
+         java, sql, python, Javascript(NOdeJs), C#, C/C+, Ruby, Perl, Go, Tcl
+         
 -- below is a cheetsheet for postgresql
 -- https://www.postgresqltutorial.com/postgresql-cheat-sheet/
 
