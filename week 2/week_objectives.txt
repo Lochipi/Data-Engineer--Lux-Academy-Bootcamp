@@ -1,0 +1,25 @@
+Welcome to Week 2, Day 1 of LuxDevHQ 8 weeks Data Career Boot Camp: Python Tools for a Beginner Data Professional cc @channel
+===============================================================================================================================================================
+Python has tools for all stages of the life cycle of a data science project. Any data science project has the following 3 stages inherently included in it.
+Data Collection
+Data Modelling
+Data Visualization
+Python provides very neat tools for all 3 of these stages.
+Data Collection
+Beautiful Soup
+Wget
+Data APIs
+Data Modelling
+Imbalanced-learn
+Scipy Ecosystem — NumPy
+ Pandas
+Data Visualization
+Matplotlib
+Seaborn
+MoviePy
+Other important Python Packages to concentrate on this week include;
+OpenCV
+Sklearn
+Fast API / Flask
+Requests
+Boto3
