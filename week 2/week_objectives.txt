@@ -20,6 +20,27 @@ MoviePy
 Other important Python Packages to concentrate on this week include;
 OpenCV
 Sklearn
-Fast API / Flask
+Fast API / Flask   ==check it out https://flask.palletsprojects.com/en/2.2.x/quickstart/#a-minimal-application
 Requests
 Boto3
+
+
+reference links
+cleaning data with python ==> https://github.com/HarunMbaabu/Data-Cleaning-With-Python
+https://pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/
+Web scraping  using selenium tutorial ==> https://www.pluralsight.com/guides/guide-scraping-dynamic-web-pages-python-selenium
+https://stdntpartners-my.sharepoint.com/:v:/g/personal/laura_chege_studentambassadors_com/EQJQpVWGdT5Bs_oP3b4aoroByGmIuAJbo8b2QFNlOZAQFg
+https://stdntpartners-my.sharepoint.com/:v:/g/personal/laura_chege_studentambassadors_com/EQJQpVWGdT5Bs_oP3b4aoroByGmIuAJbo8b2QFNlOZAQFg
+
+DSEA  Data Science Boot Camp Notes.
+https://github.com/Data-Science-East-AFrica/Data-Science-Boot-Camp-Notes
+
+merge in pandas ==> https://www.digitalocean.com/community/tutorials/pandas-merge-two-dataframe
+
+streamlit
+https://docs.streamlit.io/library/cheatsheet
+
+guide to pandas link
+https://www.analyticsinsight.net/web-stories/a-complete-and-detailed-guide-to-pandas-the-python-library-dedicated-to-the-data-science-2/
+
+https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model ===> power bi
