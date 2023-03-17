@@ -1,0 +1,1 @@
+# Also please make an effort to understand What is dbt (data build tool) you can use this tutorial, https://towardsdatascience.com/dbt-55b35c974533

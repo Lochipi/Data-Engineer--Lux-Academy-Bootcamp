@@ -4,3 +4,18 @@ Model Development: The first step in developing a machine learning model is to d
 Model Evaluation: Evaluating a machine learning model is important to determine its performance and identify any issues that need to be addressed. You can use Python and scikit-learn to evaluate the model's accuracy, precision, recall, F1 score, and other metrics. You can also use visualization tools like matplotlib and seaborn to visualize the model's performance.
 Communicating Results: Communicating the results of a machine learning model is important to ensure that the model is properly understood and can be used effectively. You can use Python and Jupyter Notebooks to create reports and dashboards that showcase the model's performance and provide insights into the data. Additionally, you can use libraries like TensorFlow Serving and Flask to deploy the model as a REST API.
 In summary, Python is a powerful tool for developing, evaluating, and communicating machine learning models. By following the best practices and utilizing the available libraries and tools, you can build robust and effective models that can be used to solve real-world problems.
+
+
+<!-- reading materials -->
+
+<!-- Slides,  Machine learning model development, model evaluation, and communicating the model’s result using Python
+ https://docs.google.com/presentation/d/1fn5OPw8oLY0Md2_Pp3nYK_7obAkcL0CgLqHAlULk6Rk/edit?usp=sharing -->
+
+ <!-- https://docs.google.com/document/d/1KwvftlzZiCqzMa3N-s3OpjZ9TSsZw59L134PT4U65H0/edit# -->
+
+ <!-- How To Solve CAPTCHA While Web Scraping?, 
+ https://medium.com/dataseries/how-to-solve-captcha-while-web-scraping-9335c95800eb -->
+
+<!-- Categorical data: Pie charts, bar charts, stacked bar charts, and stacked area charts are often used to display the distribution of categorical data.
+Continuous data: Histograms, box plots, and density plots are often used to display the distribution of continuous data.
+Time-series data: Line charts and area charts are often used to display changes over time -->
