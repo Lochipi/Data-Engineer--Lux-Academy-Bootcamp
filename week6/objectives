@@ -1,0 +1,18 @@
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+https://fastapi.tiangolo.com/tutorial/request-forms/
+
+ check out this Data Engineering Study Guide,  https://docs.google.com/spreadsheets/d/1L7kmibtgX4Gph5YBHFngs4UVCz7NMV_Vn281yh4vhgc/edit?usp=sharing 
+
+Hello @channel below is our week 6 Agenda.
+Week 6: Learn how to deploy models and maintain them to ensure that we are having correct predictions, we will learn how to package our model and deploy it using streamlit, flask, and fast api.
+Important Documentations:
+Streamlit, https://streamlit.io/
+Fast API , https://fastapi.tiangolo.com/
+FlasK, https://flask.palletsprojects.com/en/2.2.x/
+Two very interesting tutorials you should look at:
+How to Deploy Machine Learning Models
+How to Deploy Machine Learning Models, https://towardsdatascience.com/how-to-deploy-machine-learning-models-601f8c13ff45
+Build, Train, and Deploy a Machine Learning Model with Amazon SageMaker, https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
+Amazon Web Services, Inc.Amazon Web Services, Inc.
+How to build, train, and deploy a machine learning model with Amazon SageMaker
+Learn how to build, train, and deploy a machine learning model with Amazon SageMaker in 10 minutes.
